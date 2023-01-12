@@ -161,7 +161,9 @@ img {
 }
 
 /* Rotate social */
-
+.animation .card__social-control{
+  transform: rotate(-135deg);
+}
 
 /* Up animation */
 
